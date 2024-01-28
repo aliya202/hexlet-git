@@ -1,2 +1,1 @@
-no code no pain
-experiment with amend
+Мой первый проект на Хекслете
